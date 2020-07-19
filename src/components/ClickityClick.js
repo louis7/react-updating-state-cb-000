@@ -10,7 +10,7 @@ class ClickityClick extends React.Component{
   }
 
   handleClick= () =>{
-    
+
   }
   render(){
     return (
